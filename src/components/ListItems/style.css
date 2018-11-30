@@ -1,0 +1,19 @@
+.check-button{
+    float: left;
+}
+
+#check-button{
+    color: rgb(30, 183, 210);
+    min-height: 5vh;
+    min-width: 5vh;
+}
+
+.item:hover{
+    background: rgb(120, 120, 121);
+}
+
+.edit-panel{
+    float: right;
+    border: none;
+    background: transparent;
+}

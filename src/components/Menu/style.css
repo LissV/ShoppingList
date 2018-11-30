@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
+
+#menu {
+    margin: 1%;
+}
+
+.edit-btn{
+    float: right;
+    border: none;
+    background: transparent;
+    margin-left: 5%;
+}
+
+.edit-panel-btns{
+    margin-right: 10%;
+}
+
+#list-btn{
+    font-family: 'Chakra Petch', sans-serif;
+}
+

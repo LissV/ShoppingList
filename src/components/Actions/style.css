@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
+
+.actions {
+    margin: 1%;
+    float: right;
+}
+
+#action-btn{
+    font-family: 'Chakra Petch', sans-serif;
+}

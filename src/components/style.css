@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
+
+.content{
+    overflow: auto;
+    height: 50vh;
+    background: rgb(211, 220, 231);
+}
+
+.main{
+    min-height: 100vh;
+}
+
+.nav-title{
+    /*font-family: 'Playfair Display', serif;*/
+    font-family: 'Chakra Petch', sans-serif;
+}
